@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(43, 87, 233);
+}
+
+.header {
+  font: 500;
+  font-size: xx-large;
+  font-style: oblique;
+  color: rgb(178, 243, 58);
+}
+
+.Pagination {
+  display: flex;
+}
+.Nav {
+  background-color: burlywood;
+  opacity: 100;
+  display: flex;
+}

@@ -1,0 +1,11 @@
+.Pagination {
+  justify-content: center;
+}
+.Nav {
+  background-color: burlywood;
+  opacity: 100;
+  display: flex;
+}
+.Icon {
+  color: rgb(0, 0, 0);
+}

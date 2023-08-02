@@ -1,0 +1,8 @@
+.Pagination {
+  justify-content: center;
+}
+.Nav {
+  background-color: burlywood;
+  opacity: 100;
+  display: flex;
+}
