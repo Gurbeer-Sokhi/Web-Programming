@@ -1,0 +1,22 @@
+{
+  "name": "cs-554-lab-1",
+  "version": "1.0.0",
+  "description": "Lab-1 by Gurbeer Singh Sokhi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Gurbeer Singh Sokhi 20011962",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "express-session": "^1.17.3",
+    "flat": "^5.0.2",
+    "handlebars": "^4.7.7",
+    "mongodb": "^5.0.0",
+    "redis": "^4.6.4"
+  }
+}
